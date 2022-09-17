@@ -6,7 +6,7 @@ title: Tao Yang
 superuser: true
 
 # Role/position/tagline
-role: PhD Student (third-year)
+role: Third-year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -39,19 +39,19 @@ interests:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+# social:
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/TaoYang225
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/TaoYang225
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -70,6 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at School of Computer Science and Engineering, Sun Yat-sen University (SYSU) since 2020, surpervised by Prof. [XiaoJun Quan](https://sites.google.com/site/xiaojunquan/homepage). I received my master degree in Control Engineering and bachelor degree in Electronic Information Engineering from Civil Aviation University of China. During my postgraduate study, I worked as a research intern at Center for Applied Mathematics (CAM)，Tianjin University for two years. I had strong interests in natural language processing (NLP) during this period, which made me decide to continue for a doctorate. My research areas currently include **Pretrained Models Tuning**, **Attribution**, **Text-based Personality Detection**, etc. 
+I am a Ph.D. student at School of Computer Science and Engineering, Sun Yat-sen University (SYSU) since 2020. I received my master degree in Control Engineering and bachelor degree in Electronic Information Engineering from Civil Aviation University of China. Since 2017, I have been working as an intern at the Center for Applied Mathematics (CAM) of Tianjin University for two years. During this time, I developed a strong interest in Natural Language Processing (NLP), which led me to decide to pursue my Ph.D. 
+
+My research areas currently include **Pretrained Models Tuning**, **Attribution**, **Text-based Personality Detection**, etc.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
