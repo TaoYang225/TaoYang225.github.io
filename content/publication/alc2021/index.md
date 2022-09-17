@@ -36,10 +36,10 @@ date: '2021-08-01T00:00:00Z'
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+# tags: []
 
 # Display this page in the Featured widget?
-featured: true
+# featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -84,6 +84,6 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
