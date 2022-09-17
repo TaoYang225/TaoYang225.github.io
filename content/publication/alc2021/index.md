@@ -1,5 +1,5 @@
 ---
-title: 'Psycholinguistic Tripartite Graph Network for Personality Detection. ACL 2021, Main Conference, Pages 4229–4239, August 1–6, 2021'
+title: 'Psycholinguistic Tripartite Graph Network for Personality Detection. ACL 2021, Main Conference, Pages 4229–4239'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,7 +15,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-#date: '2021-08-01T00:00:00Z'
+date: '2021-08-01T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
