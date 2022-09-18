@@ -1,22 +1,22 @@
 ---
-title: 'Psycholinguistic Tripartite Graph Network for Personality Detection'
+title: 'Learning to Answer Psychological Questionnaire for Personality Detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Feifan Yang
-  - Haolan Ouyang
+  - admin
   - Xiaojun Quan
+  - Qinliang Su
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-08-01T00:00:00Z'
-doi: '10.18653/v1/2021.acl-long.326'
+date: '2021-11-01T00:00:00Z'
+doi: '10.18653/v1/2021.findings-emnlp.98'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -29,9 +29,9 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
-publication_short: In ***ACL2021***, Main Conference, Pages 4229–4239, 2021
+publication_short: In ***EMNLP 2021***, Findings, pages 1131–1142, 2021
 
-abstract: 'Most of the recent work on personality detection from online posts adopts multifarious deep neural networks to represent the posts and builds predictive models in a data-driven manner, without the exploitation of psycholinguistic knowledge that may unveil the connections between one’s language use and his psychological traits. In this paper, we propose a psycholinguistic knowledge-based tripartite graph network, TrigNet, which consists of a tripartite graph network and a BERT-based graph initializer. The graph network injects structural psycholinguistic knowledge in LIWC, a computerized instrument for psycholinguistic analysis, by constructing a heterogeneous tripartite graph. The initializer is employed to provide initial embeddings for the graph nodes. To reduce the computational cost in graph learning, we further propose a novel flow graph attention network (GAT) that only transmits messages between neighboring parties in the tripartite graph. Benefiting from the tripartite graph, TrigNet can aggregate post information from a psychological perspective, which is a novel way of exploiting domain knowledge. Extensive experiments on two datasets show that TrigNet outperforms the existing state-of-art model by 3.47 and 2.10 points in average F1. Moreover, the flow GAT reduces the FLOPS and Memory measures by 38% and 32%, respectively, in comparison to the original GAT in our setting.'
+abstract: 'Existing text-based personality detection research mostly relies on data-driven approaches to implicitly capture personality cues in online posts, lacking the guidance of psychological knowledge. Psychological questionnaire, which contains a series of dedicated questions highly related to personality traits, plays a critical role in self-report personality assessment. We argue that the posts created by a user contain critical contents that could help answer the questions in a questionnaire, resulting in an assessment of his personality by linking the texts and the questionnaire. To this end, we propose a new model named Psychological Questionnaire enhanced Network (PQ-Net) to guide personality detection by tracking critical information in texts with a questionnaire. Specifically, PQ-Net contains two streams: a context stream to encode each piece of text into a contextual text representation, and a questionnaire stream to capture relevant information in the contextual text representation to generate potential answer representations for a questionnaire. The potential answer representations are used to enhance the contextual text representation and to benefit personality prediction. Experimental results on two datasets demonstrate the superiority of PQ-Net in capturing useful cues from the posts for personality detection.'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
