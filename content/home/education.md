@@ -29,7 +29,7 @@ experience:
     location: GuangZhou, China
     date_start: '2020-09-01'
     date_end: ''
-    description: My major direction is to use AI technology to solve problems in the biomedical field. My doctoral project is to study text-based personality detection, which aims to identify one’s personality traits from the online texts he/she creates. The potential application of this study can be served for auxiliary diagnosis of psychological diseases, personalized human-computer interaction, etc.
+    description: The major is to use AI technology to solve problems in the biomedical field. My doctoral project is to study text-based personality detection, which aims to identify one’s personality traits from the online texts he/she creates. The potential application of this research includes auxiliary diagnosis of psychological diseases, personalized human-computer interaction, etc.
 
   - title: M.Eng. in Control Engineering
     company: Civil Aviation University of China
