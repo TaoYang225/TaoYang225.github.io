@@ -22,10 +22,6 @@ interests:
   - Natural Language Processing
   - Interpretability
 
-Latest News:
-  - 09/14/22 - One paper accepted to NeurIPS 2022.
-  - Natural Language Processing
-  - Interpretability
 # Education to show in About widget
 # education:
 #   courses:
@@ -43,7 +39,7 @@ Latest News:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
+social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
@@ -53,9 +49,9 @@ Latest News:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/TaoYang225
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/TaoYang225
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -68,7 +64,7 @@ Latest News:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yangt225[@]mail2.sysu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
