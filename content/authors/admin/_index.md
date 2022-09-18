@@ -22,6 +22,10 @@ interests:
   - Natural Language Processing
   - Interpretability
 
+Latest News:
+  - 09/14/22 - One paper accepted to NeurIPS 2022.
+  - Natural Language Processing
+  - Interpretability
 # Education to show in About widget
 # education:
 #   courses:
