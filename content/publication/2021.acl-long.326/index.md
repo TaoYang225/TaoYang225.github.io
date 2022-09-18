@@ -28,8 +28,8 @@ doi: '10.18653/v1/2021.acl-long.326'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
-publication_short: In *ACL2021*
+# publication: In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
+publication_short: In ***ACL2021***, Main Conference, Pages 4229–4239, August 1–6, 2021.
 
 abstract: 'Existing text-based personality detection research mostly relies on data-driven approaches to implicitly capture personality cues in online posts, lacking the guidance of psychological knowledge. Psychological questionnaire, which contains a series of dedicated questions highly related to personality traits, plays a critical role in self-report personality assessment. We argue that the posts created by a user contain critical contents that could help answer the questions in a questionnaire, resulting in an assessment of his personality by linking the texts and the questionnaire. To this end, we propose a new model named Psychological Questionnaire enhanced Network (PQ-Net) to guide personality detection by tracking critical information in texts with a questionnaire. Specifically, PQ-Net contains two streams: a context stream to encode each piece of text into a contextual text representation, and a questionnaire stream to capture relevant information in the contextual text representation to generate potential answer representations for a questionnaire. The potential answer representations are used to enhance the contextual text representation and to benefit personality prediction. Experimental results on two datasets demonstrate the superiority of PQ-Net in capturing useful cues from the posts for personality detection.'
 
