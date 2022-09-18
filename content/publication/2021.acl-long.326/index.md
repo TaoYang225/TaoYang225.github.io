@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2021-08-01T00:00:00Z'
-# doi: ''
+doi: '10.18653/v1/2021.acl-long.326'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -25,13 +25,13 @@ date: '2021-08-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-#publication_types: ['1']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ACL2021*
 
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'Existing text-based personality detection research mostly relies on data-driven approaches to implicitly capture personality cues in online posts, lacking the guidance of psychological knowledge. Psychological questionnaire, which contains a series of dedicated questions highly related to personality traits, plays a critical role in self-report personality assessment. We argue that the posts created by a user contain critical contents that could help answer the questions in a questionnaire, resulting in an assessment of his personality by linking the texts and the questionnaire. To this end, we propose a new model named Psychological Questionnaire enhanced Network (PQ-Net) to guide personality detection by tracking critical information in texts with a questionnaire. Specifically, PQ-Net contains two streams: a context stream to encode each piece of text into a contextual text representation, and a questionnaire stream to capture relevant information in the contextual text representation to generate potential answer representations for a questionnaire. The potential answer representations are used to enhance the contextual text representation and to benefit personality prediction. Experimental results on two datasets demonstrate the superiority of PQ-Net in capturing useful cues from the posts for personality detection.'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://aclanthology.org/2021.acl-long.326/'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -57,10 +57,10 @@ featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
