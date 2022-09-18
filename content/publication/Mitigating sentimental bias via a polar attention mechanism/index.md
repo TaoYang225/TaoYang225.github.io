@@ -30,7 +30,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
-publication_short: 'In ***International Journal of Data Science and Analytics***, 2021, 11(1): 27-36.'
+publication_short: '***International Journal of Data Science and Analytics***, 2021, 11(1): 27-36.'
 
 abstract: 'Fairness in machine learning has received increasing attention in recent years. This study focuses on a particular type of machine learning fairness, namely sentimental bias, in text sentiment analysis. Sentimental bias occurs on words (or phrases) when they are distributed distinctly in positive and negative corpora. It results in that an excessively proportion of words carry negative/positive sentiment in learned models. This study proposed a new attention mechanism, called polar attention, to mitigate sentimental biases. It consists of two modules, namely polar flipping and distance measurement. The first module explicitly models word sentimental polarity and can prevent that neutral words flip positively or negatively. The second module is used to attend negative/positive words. In the experiments, three benchmark data sets are used, and supplementary testing sets are compiled. Experimental results verify the effectiveness of the proposed method.'
 

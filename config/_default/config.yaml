@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Welcome to My Homepage # Website name
+title: Welcome to my homepage # Website name
 baseURL: 'https://taoyang225.netlify.app/' # Website URL
 
 ############################

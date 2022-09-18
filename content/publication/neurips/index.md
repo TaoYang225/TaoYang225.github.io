@@ -1,21 +1,22 @@
 ---
-title: 'Psycholinguistic Tripartite Graph Network for Personality Detection'
+title: 'AD-DROP: Attribution Driven Dropout for Robust Language Model Finetuning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Feifan Yang
-  - Haolan Ouyang
+  - Jinghao Deng
   - Xiaojun Quan
+  - Qifan Wang
+  - Shaoliang Nie
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-08-01T00:00:00Z'
+date: '2022-09-15T00:00:00Z'
 doi: '10.18653/v1/2021.acl-long.326'
 
 # Schedule page publish date (NOT publication's date).
@@ -29,9 +30,9 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
-publication_short: In ***ACL 2021***, Main Conference, Pages 4229–4239, 2021
+publication_short: In ***NeurIPS 2022***, Main Conference, to appear, 2022
 
-abstract: 'Most of the recent work on personality detection from online posts adopts multifarious deep neural networks to represent the posts and builds predictive models in a data-driven manner, without the exploitation of psycholinguistic knowledge that may unveil the connections between one’s language use and his psychological traits. In this paper, we propose a psycholinguistic knowledge-based tripartite graph network, TrigNet, which consists of a tripartite graph network and a BERT-based graph initializer. The graph network injects structural psycholinguistic knowledge in LIWC, a computerized instrument for psycholinguistic analysis, by constructing a heterogeneous tripartite graph. The initializer is employed to provide initial embeddings for the graph nodes. To reduce the computational cost in graph learning, we further propose a novel flow graph attention network (GAT) that only transmits messages between neighboring parties in the tripartite graph. Benefiting from the tripartite graph, TrigNet can aggregate post information from a psychological perspective, which is a novel way of exploiting domain knowledge. Extensive experiments on two datasets show that TrigNet outperforms the existing state-of-art model by 3.47 and 2.10 points in average F1. Moreover, the flow GAT reduces the FLOPS and Memory measures by 38% and 32%, respectively, in comparison to the original GAT in our setting.'
+abstract: ''
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
