@@ -42,12 +42,12 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-  links:
+# links:
 # - name: Custom Link
 #   url: http://example.org
 
 # url_pdf: ''
-  url_code: 'https://github.com/TaoYang225/CueNet'
+url_code: 'https://github.com/TaoYang225/CueNet'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
