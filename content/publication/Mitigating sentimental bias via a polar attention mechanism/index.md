@@ -48,7 +48,7 @@ featured: false
 #   url: http://example.org
 
 # url_pdf: ''
-url_code: 'https://github.com/TaoYang225/PA-Net'
+#url_code: 'https://github.com/TaoYang225/PA-Net'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -86,4 +86,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}} -->
 
-<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --> 
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
