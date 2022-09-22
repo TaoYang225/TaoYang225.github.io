@@ -70,7 +70,7 @@ email: 'yangt225[@]mail2.sysu.edu.cn'
 highlight_name: true
 ---
 
-I am a Ph.D. student at School of Computer Science and Engineering, Sun Yat-sen University (SYSU). I received my master degree in Control Engineering and bachelor degree in Electronic Information Engineering from Civil Aviation University of China. I did an internship at the Center for Applied Mathematics (CAM) of Tianjin University for two years. During this time, I developed a strong interest in Natural Language Processing (NLP), which led me to decide to pursue my Ph.D. 
+I am a Ph.D. student at School of Computer Science and Engineering, Sun Yat-sen University (SYSU). I received my master degree in Control Engineering and bachelor degree in Electronic Information Engineering from Civil Aviation University of China. I did an internship at Center for Applied Mathematics (CAM) of Tianjin University for two years. During this time, I developed a strong interest in Natural Language Processing (NLP), which led me to delve deeper into this field. 
 
 My research areas currently include **Pretrained Models Tuning**, **Attribution Analysis**, **Text-based Personality Detection**, etc.
 
