@@ -1,5 +1,5 @@
 ---
-title: 'AD-DROP: Attribution Driven Dropout for Robust Language Model Finetuning'
+title: 'AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,7 +32,7 @@ publication_types: ['1']
 # publication: In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
 publication_short: In ***NeurIPS 2022***, Main Conference, to appear, 2022
 
-abstract: ''
+abstract: 'Fine-tuning large pre-trained language models on downstream tasks is apt to suffer from overfitting when limited training data is available. While dropout proves to be an effective antidote by randomly dropping a proportion of units, existing research has not examined its effect on the self-attention mechanism. In this paper, we investigate this problem through self-attention attribution and find that dropping attention positions with low attribution scores can accelerate training and increase the risk of overfitting. Motivated by this observation, we propose Attribution-Driven Dropout (AD-DROP), which randomly discards some high-attribution positions to encourage the model to make predictions by relying more on low-attribution positions to reduce overfitting. We also develop a cross-tuning strategy to alternate fine-tuning and AD-DROP to avoid dropping high-attribution positions excessively. Extensive experiments on various benchmarks show that AD-DROP yields consistent improvements over baselines. Analysis further confirms that AD-DROP serves as a strategic regularizer to prevent overfitting during fine-tuning.'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,7 +48,7 @@ featured: false
 #   url: http://example.org
 
 # url_pdf: ''
-# url_code: ''
+url_code: 'https://github.com/TaoYang225/AD-DROP'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
