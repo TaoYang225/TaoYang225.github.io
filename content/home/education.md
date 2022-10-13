@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: The major is to use AI technology to solve problems in the biomedical field. My doctoral project is to study text-based personality detection, which aims to identify one’s personality traits from the online texts he/she creates. The potential application of this research includes auxiliary diagnosis of psychological diseases, personalized human-computer interaction, etc.
 
-  - title: M.Eng. in Control Engineering
+  - title: M.E. in Control Engineering
     company: Civil Aviation University of China
     #company_url: ''
     #company_logo: org-x
@@ -40,7 +40,7 @@ experience:
     date_end: '2019-07-01'
     #description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: B.Sc. in Electronic Information Engineering (CDIO)
+  - title: B.E. in Electronic Information Engineering (CDIO)
     company: Civil Aviation University of China
     #company_url: ''
     #company_logo: org-x

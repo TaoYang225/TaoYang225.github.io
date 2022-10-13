@@ -10,7 +10,7 @@ role: Third-year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sun Yat-Sen University
+  - name: Sun Yat-sen University
     url: https://www.sysu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,7 +70,7 @@ email: 'yangt225[@]mail2.sysu.edu.cn'
 highlight_name: true
 ---
 
-I am a Ph.D. student at School of Computer Science and Engineering, Sun Yat-sen University (SYSU). I received my master degree in Control Engineering and bachelor degree in Electronic Information Engineering from Civil Aviation University of China. I did an internship at Center for Applied Mathematics (CAM) of Tianjin University for two years. During this time, I developed a strong interest in Natural Language Processing (NLP), which led me to delve deeper into this field. 
+I am a Ph.D. student at School of Computer Science and Engineering, Sun Yat-sen University. I received my M.E. degree in Control Engineering and B.E. degree in Electronic Information Engineering from Civil Aviation University of China. I did an internship at Center for Applied Mathematics of Tianjin University for two years. During this time, I developed a strong interest in Natural Language Processing (NLP), which led me to delve deeper into this field. 
 
 My research areas currently include **Pretrained Models Tuning**, **Attribution Analysis**, **Text-based Personality Detection**, etc.
 
