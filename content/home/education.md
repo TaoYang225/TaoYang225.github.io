@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Ph.D. in Biomedical Engineering
+  - title: Ph.D. in Computer Technology
     company: Sun Yat-sen University 
     #company_url: ''
     #company_logo: sysu
     location: GuangZhou, China
     date_start: '2020-09-01'
     date_end: ''
-    description: The major is to use AI to solve problems in the biomedical field. My doctoral thesis is text-based personality detection, which aims to identify one’s personality traits from the online texts he/she creates. My research focuses on the knowledge-driven personality detection model and its interpretability. The potential application of this research includes auxiliary diagnosis of psychological diseases, personalized human-computer interaction, etc.
+    #description: My doctoral thesis is text-based personality detection, which aims to identify one’s personality traits from the online texts he/she creates. My research focuses on the knowledge-driven personality detection model and its interpretability. The potential application of this research includes auxiliary diagnosis of psychological diseases, personalized human-computer interaction, etc.
 
   - title: M.E. in Control Engineering
     company: Civil Aviation University of China
