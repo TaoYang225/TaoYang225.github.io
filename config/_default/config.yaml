@@ -5,6 +5,7 @@
 
 title: Tao Yang's Website # Website name
 baseURL: 'https://taoyang225.github.io/' # Website URL
+publishDir: "docs"
 # baseURL: 'https://taoyang.github.io'
 ############################
 ## LANGUAGE
