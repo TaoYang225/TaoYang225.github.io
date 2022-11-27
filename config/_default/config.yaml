@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Tao Yang's Website # Website name
-baseURL: 'https://taoyang225.netlify.app/' # Website URL
+baseURL: 'https://taoyang225.github.io/' # Website URL
 # baseURL: 'https://taoyang.github.io'
 ############################
 ## LANGUAGE
