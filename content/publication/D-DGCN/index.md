@@ -29,7 +29,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
-publication_short: In ***AAAI 2023***, Main Conference, to appear, 2022
+publication_short: In ***AAAI 2023***, Main Track, to appear, 2022
 
 abstract: 'Predicting personality traits based on online posts has emerged as an important task in many fields such as social network analysis. One of the challenges for this task is to piece together information in different posts into an overall profile for each user. While many existing approaches either simply assemble the posts into a document that can be encoded sequentially or into a hierarchical structure, they introduce unnecessary orders for the posts which may mislead the models. In this paper, we propose a novel model named dynamic deep graph convolutional network (D-DGCN) to overcome the above limitation by fusing the posts of a user disorderly into a user representation. We also design a learn-to-connect approach that adopts a dynamic multi-hop structure instead of a deterministic structure, and combine it with the DGCN module to automatically learn the connections between posts. The modules of post encoder, learn-to-connect, and DGCN are jointly trained in an end-to-end manner. Experimental results on the Kaggle and Pandora datasets show the superior performance of D-DGCN to state-of-the-art baselines.'
 
