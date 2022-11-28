@@ -47,7 +47,7 @@ featured: false
 #   url: http://example.org
 
 # url_pdf: ''
-# url_code: 'https://github.com/TaoYang225/AD-DROP'
+url_code: 'https://github.com/djz233/D-DGCN'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
