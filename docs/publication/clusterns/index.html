@@ -78,7 +78,7 @@
   
     
   
-  <meta name="description" content="Fine-tuning large pre-trained language models on downstream tasks is apt to suffer from overfitting when limited training data is available. While dropout proves to be an effective antidote by randomly dropping a proportion of units, existing research has not examined its effect on the self-attention mechanism. In this paper, we investigate this problem through self-attention attribution and find that dropping attention positions with low attribution scores can accelerate training and increase the risk of overfitting. Motivated by this observation, we propose Attribution-Driven Dropout (AD-DROP), which randomly discards some high-attribution positions to encourage the model to make predictions by relying more on low-attribution positions to reduce overfitting. We also develop a cross-tuning strategy to alternate fine-tuning and AD-DROP to avoid dropping high-attribution positions excessively. Extensive experiments on various benchmarks show that AD-DROP yields consistent improvements over baselines. Analysis further confirms that AD-DROP serves as a strategic regularizer to prevent overfitting during fine-tuning." />
+  <meta name="description" content="Contrastive learning has been widely studied in sentence representation learning. However, earlier works mainly focus on the construction of positive examples, while in-batch samples are often simply treated as negative examples. This approach overlooks the importance of selecting appropriate negative examples, potentially leading to a scarcity of hard negatives and the inclusion of false negatives. To address these issues, we propose ClusterNS (Clustering-aware Negative Sampling), a novel method that incorporates cluster information into contrastive learning for unsupervised sentence representation learning. We apply a modified K-means clustering algorithm to supply hard negatives and recognize in-batch false negatives during training, aiming to solve the two issues in one unified framework. Experiments on semantic textual similarity (STS) tasks demonstrate that our proposed ClusterNS compares favorably with baselines in unsupervised sentence representation learning. Our code has been made publicly available." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://taoyang225.github.io/publication/clusterns/" />
@@ -309,17 +309,17 @@
   
   <meta property="og:site_name" content="Tao Yang&#39;s Website" />
   <meta property="og:url" content="https://taoyang225.github.io/publication/clusterns/" />
-  <meta property="og:title" content="AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning | Tao Yang&#39;s Website" />
-  <meta property="og:description" content="Fine-tuning large pre-trained language models on downstream tasks is apt to suffer from overfitting when limited training data is available. While dropout proves to be an effective antidote by randomly dropping a proportion of units, existing research has not examined its effect on the self-attention mechanism. In this paper, we investigate this problem through self-attention attribution and find that dropping attention positions with low attribution scores can accelerate training and increase the risk of overfitting. Motivated by this observation, we propose Attribution-Driven Dropout (AD-DROP), which randomly discards some high-attribution positions to encourage the model to make predictions by relying more on low-attribution positions to reduce overfitting. We also develop a cross-tuning strategy to alternate fine-tuning and AD-DROP to avoid dropping high-attribution positions excessively. Extensive experiments on various benchmarks show that AD-DROP yields consistent improvements over baselines. Analysis further confirms that AD-DROP serves as a strategic regularizer to prevent overfitting during fine-tuning." /><meta property="og:image" content="https://taoyang225.github.io/publication/clusterns/featured.jpg" />
+  <meta property="og:title" content="Clustering-Aware Negative Sampling for Unsupervised Sentence Representation | Tao Yang&#39;s Website" />
+  <meta property="og:description" content="Contrastive learning has been widely studied in sentence representation learning. However, earlier works mainly focus on the construction of positive examples, while in-batch samples are often simply treated as negative examples. This approach overlooks the importance of selecting appropriate negative examples, potentially leading to a scarcity of hard negatives and the inclusion of false negatives. To address these issues, we propose ClusterNS (Clustering-aware Negative Sampling), a novel method that incorporates cluster information into contrastive learning for unsupervised sentence representation learning. We apply a modified K-means clustering algorithm to supply hard negatives and recognize in-batch false negatives during training, aiming to solve the two issues in one unified framework. Experiments on semantic textual similarity (STS) tasks demonstrate that our proposed ClusterNS compares favorably with baselines in unsupervised sentence representation learning. Our code has been made publicly available." /><meta property="og:image" content="https://taoyang225.github.io/publication/clusterns/featured.jpg" />
     <meta property="twitter:image" content="https://taoyang225.github.io/publication/clusterns/featured.jpg" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-09-15T00:00:00&#43;00:00"
+        content="2023-05-20T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-09-15T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-05-20T00:00:00&#43;00:00">
   
 
   
@@ -343,18 +343,18 @@
     "@type": "WebPage",
     "@id": "https://taoyang225.github.io/publication/clusterns/"
   },
-  "headline": "AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning",
+  "headline": "Clustering-Aware Negative Sampling for Unsupervised Sentence Representation",
   
   "image": [
     "https://taoyang225.github.io/publication/clusterns/featured.jpg"
   ],
   
-  "datePublished": "2022-09-15T00:00:00Z",
-  "dateModified": "2022-09-15T00:00:00Z",
+  "datePublished": "2023-05-20T00:00:00Z",
+  "dateModified": "2023-05-20T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Tao Yang"
+    "name": "Jinghao Deng"
   },
   
   "publisher": {
@@ -365,7 +365,7 @@
       "url": "https://taoyang225.github.io/media/icon_hu110ad8c96ece6295240795d0aff4a1a9_6567_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Fine-tuning large pre-trained language models on downstream tasks is apt to suffer from overfitting when limited training data is available. While dropout proves to be an effective antidote by randomly dropping a proportion of units, existing research has not examined its effect on the self-attention mechanism. In this paper, we investigate this problem through self-attention attribution and find that dropping attention positions with low attribution scores can accelerate training and increase the risk of overfitting. Motivated by this observation, we propose Attribution-Driven Dropout (AD-DROP), which randomly discards some high-attribution positions to encourage the model to make predictions by relying more on low-attribution positions to reduce overfitting. We also develop a cross-tuning strategy to alternate fine-tuning and AD-DROP to avoid dropping high-attribution positions excessively. Extensive experiments on various benchmarks show that AD-DROP yields consistent improvements over baselines. Analysis further confirms that AD-DROP serves as a strategic regularizer to prevent overfitting during fine-tuning."
+  "description": "Contrastive learning has been widely studied in sentence representation learning. However, earlier works mainly focus on the construction of positive examples, while in-batch samples are often simply treated as negative examples. This approach overlooks the importance of selecting appropriate negative examples, potentially leading to a scarcity of hard negatives and the inclusion of false negatives. To address these issues, we propose ClusterNS (Clustering-aware Negative Sampling), a novel method that incorporates cluster information into contrastive learning for unsupervised sentence representation learning. We apply a modified K-means clustering algorithm to supply hard negatives and recognize in-batch false negatives during training, aiming to solve the two issues in one unified framework. Experiments on semantic textual similarity (STS) tasks demonstrate that our proposed ClusterNS compares favorably with baselines in unsupervised sentence representation learning. Our code has been made publicly available."
 }
 </script>
 
@@ -376,7 +376,7 @@
   
 
 
-  <title>AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning | Tao Yang&#39;s Website</title>
+  <title>Clustering-Aware Negative Sampling for Unsupervised Sentence Representation | Tao Yang&#39;s Website</title>
 
   
   
@@ -703,7 +703,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning</h1>
+  <h1>Clustering-Aware Negative Sampling for Unsupervised Sentence Representation</h1>
 
   
 
@@ -719,12 +719,12 @@
   <div>
     
 
-  <span class="author-highlighted">
-      Tao Yang</span>, <span >
+  <span >
       Jinghao Deng</span>, <span >
+      Fanqi Wan</span>, <span class="author-highlighted">
+      Tao Yang</span>, <span >
       Xiaojun Quan</span>, <span >
-      Qifan Wang</span>, <span >
-      Shaoliang Nie</span>
+      Rui Wang</span>
   </div>
   
   
@@ -735,7 +735,7 @@
     
       
     
-    September, 2022
+    May, 2023
   </span>
   
 
@@ -789,7 +789,7 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/TaoYang225/AD-DROP" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/djz233/ClusterNS" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -825,7 +825,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Fine-tuning large pre-trained language models on downstream tasks is apt to suffer from overfitting when limited training data is available. While dropout proves to be an effective antidote by randomly dropping a proportion of units, existing research has not examined its effect on the self-attention mechanism. In this paper, we investigate this problem through self-attention attribution and find that dropping attention positions with low attribution scores can accelerate training and increase the risk of overfitting. Motivated by this observation, we propose Attribution-Driven Dropout (AD-DROP), which randomly discards some high-attribution positions to encourage the model to make predictions by relying more on low-attribution positions to reduce overfitting. We also develop a cross-tuning strategy to alternate fine-tuning and AD-DROP to avoid dropping high-attribution positions excessively. Extensive experiments on various benchmarks show that AD-DROP yields consistent improvements over baselines. Analysis further confirms that AD-DROP serves as a strategic regularizer to prevent overfitting during fine-tuning.</p>
+    <p class="pub-abstract">Contrastive learning has been widely studied in sentence representation learning. However, earlier works mainly focus on the construction of positive examples, while in-batch samples are often simply treated as negative examples. This approach overlooks the importance of selecting appropriate negative examples, potentially leading to a scarcity of hard negatives and the inclusion of false negatives. To address these issues, we propose ClusterNS (Clustering-aware Negative Sampling), a novel method that incorporates cluster information into contrastive learning for unsupervised sentence representation learning. We apply a modified K-means clustering algorithm to supply hard negatives and recognize in-batch false negatives during training, aiming to solve the two issues in one unified framework. Experiments on semantic textual similarity (STS) tasks demonstrate that our proposed ClusterNS compares favorably with baselines in unsupervised sentence representation learning. Our code has been made publicly available.</p>
     
 
     
@@ -885,7 +885,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://taoyang225.github.io/publication/clusterns/&amp;text=AD-DROP:%20Attribution-Driven%20Dropout%20for%20Robust%20Language%20Model%20Fine-Tuning" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://taoyang225.github.io/publication/clusterns/&amp;text=Clustering-Aware%20Negative%20Sampling%20for%20Unsupervised%20Sentence%20Representation" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -898,7 +898,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://taoyang225.github.io/publication/clusterns/&amp;t=AD-DROP:%20Attribution-Driven%20Dropout%20for%20Robust%20Language%20Model%20Fine-Tuning" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://taoyang225.github.io/publication/clusterns/&amp;t=Clustering-Aware%20Negative%20Sampling%20for%20Unsupervised%20Sentence%20Representation" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -911,7 +911,7 @@
       
       
       <li>
-        <a href="mailto:?subject=AD-DROP:%20Attribution-Driven%20Dropout%20for%20Robust%20Language%20Model%20Fine-Tuning&amp;body=https://taoyang225.github.io/publication/clusterns/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Clustering-Aware%20Negative%20Sampling%20for%20Unsupervised%20Sentence%20Representation&amp;body=https://taoyang225.github.io/publication/clusterns/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -924,7 +924,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://taoyang225.github.io/publication/clusterns/&amp;title=AD-DROP:%20Attribution-Driven%20Dropout%20for%20Robust%20Language%20Model%20Fine-Tuning" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://taoyang225.github.io/publication/clusterns/&amp;title=Clustering-Aware%20Negative%20Sampling%20for%20Unsupervised%20Sentence%20Representation" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -937,7 +937,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=AD-DROP:%20Attribution-Driven%20Dropout%20for%20Robust%20Language%20Model%20Fine-Tuning%20https://taoyang225.github.io/publication/clusterns/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Clustering-Aware%20Negative%20Sampling%20for%20Unsupervised%20Sentence%20Representation%20https://taoyang225.github.io/publication/clusterns/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -950,7 +950,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://taoyang225.github.io/publication/clusterns/&amp;title=AD-DROP:%20Attribution-Driven%20Dropout%20for%20Robust%20Language%20Model%20Fine-Tuning" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://taoyang225.github.io/publication/clusterns/&amp;title=Clustering-Aware%20Negative%20Sampling%20for%20Unsupervised%20Sentence%20Representation" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -969,6 +969,18 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
@@ -1031,18 +1043,6 @@
 
     </div>
   </div>
-
-
-  
-    
-
-
-
-
-  
-    
-
-
 
 
   
