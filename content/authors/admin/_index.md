@@ -34,10 +34,10 @@ interests:
 #     - course: BSc in Artificial Intelligence
 #       institution: Massachusetts Institute of Technology
 #       year: 2008
-awards:
-  - Natural Language Processing
-  - Interpretability
-  - Psycholinguistic
+# awards:
+#   - Natural Language Processing
+#   - Interpretability
+#   - Psycholinguistic
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
