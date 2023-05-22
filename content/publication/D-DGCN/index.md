@@ -1,22 +1,21 @@
 ---
-title: 'Clustering-Aware Negative Sampling for Unsupervised Sentence Representation'
+title: 'Orders Are Unwanted: Dynamic Deep Graph Convolutional Network for Personality Detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jinghao Deng
-  - Fanqi Wan
   - admin
+  - Jinghao Deng
   - Xiaojun Quan
-  - Rui Wang
-
+  - Qifan Wang
+  
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-5-20T00:00:00Z'
+date: '2022-11-19T00:00:00Z'
 # doi: '10.18653/v1/2021.acl-long.326'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,10 +29,9 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
-publication_short: In ***ACL 2023***, Findings, to appear, 2023
+publication_short: In ***AAAI 2023***, Main Track, to appear, 2022
 
-abstract: 'Contrastive learning has been widely studied in sentence representation learning. However, earlier works mainly focus on the construction of positive examples, while in-batch samples are often simply treated as negative examples. This approach overlooks the importance of selecting appropriate negative examples, potentially leading to a scarcity of hard negatives and the inclusion of false negatives. To address these issues, we propose ClusterNS (Clustering-aware Negative Sampling), a novel method that incorporates cluster information into contrastive learning for unsupervised sentence representation learning. We apply a modified K-means clustering algorithm to supply hard negatives and recognize in-batch false negatives during training, aiming to solve the two issues in one unified framework. Experiments on semantic textual similarity (STS) tasks demonstrate that our proposed ClusterNS compares favorably with baselines in unsupervised sentence representation learning. Our code has been made publicly available.'
-
+abstract: 'Predicting personality traits based on online posts has emerged as an important task in many fields such as social network analysis. One of the challenges for this task is to piece together information in different posts into an overall profile for each user. While many existing approaches either simply assemble the posts into a document that can be encoded sequentially or into a hierarchical structure, they introduce unnecessary orders for the posts which may mislead the models. In this paper, we propose a novel model named dynamic deep graph convolutional network (D-DGCN) to overcome the above limitation by fusing the posts of a user disorderly into a user representation. We also design a learn-to-connect approach that adopts a dynamic multi-hop structure instead of a deterministic structure, and combine it with the DGCN module to automatically learn the connections between posts. The modules of post encoder, learn-to-connect, and DGCN are jointly trained in an end-to-end manner. Experimental results on the Kaggle and Pandora datasets show the superior performance of D-DGCN to state-of-the-art baselines.'
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -48,7 +46,7 @@ featured: false
 #   url: http://example.org
 
 # url_pdf: ''
-url_code: 'https://github.com/djz233/ClusterNS'
+url_code: 'https://github.com/djz233/D-DGCN'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''

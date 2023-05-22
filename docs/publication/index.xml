@@ -5,7 +5,7 @@
     <link>https://taoyang225.github.io/publication/</link>
       <atom:link href="https://taoyang225.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://taoyang225.github.io/media/icon_hu110ad8c96ece6295240795d0aff4a1a9_6567_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Orders Are Unwanted: Dynamic Deep Graph Convolutional Network for Personality Detection</title>
-      <link>https://taoyang225.github.io/publication/d-dgcn/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://taoyang225.github.io/publication/d-dgcn/</guid>
+      <title>AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning</title>
+      <link>https://taoyang225.github.io/publication/ad-drop/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://taoyang225.github.io/publication/ad-drop/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -35,9 +35,9 @@
     
     <item>
       <title>AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning</title>
-      <link>https://taoyang225.github.io/publication/ad-drop/</link>
+      <link>https://taoyang225.github.io/publication/clusterns/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://taoyang225.github.io/publication/ad-drop/</guid>
+      <guid>https://taoyang225.github.io/publication/clusterns/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -159,6 +159,27 @@
  --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Clustering-Aware Negative Sampling for Unsupervised Sentence Representation</title>
+      <link>https://taoyang225.github.io/publication/d-dgcn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taoyang225.github.io/publication/d-dgcn/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt; </description>
     </item>
     
   </channel>
