@@ -74,8 +74,8 @@ email: 'yangt225[@]mail2.sysu.edu.cn'
 highlight_name: true
 ---
 
-I am a Ph.D. student in Computer Technology at School of Computer Science and Engineering, Sun Yat-sen University. I received my M.E. degree in Control Engineering and B.E. degree in Electronic Information Engineering from Civil Aviation University of China. In June of 2017, I worked as a research intern at Center for Applied Mathematics of Tianjin University. During this time, I developed a strong interest in Natural Language Processing, which led me to delve deeper into this field. 
+I am a Ph.D. student in Computer Technology at School of Computer Science and Engineering, Sun Yat-sen University. I received my M.E. degree in Control Engineering and B.E. degree in Electronic Information Engineering from Civil Aviation University of China. My research primarily focuses on Natural Language Processing. I am delighted to share that I have been accepted into the 2023 Tencent Rhino-Bird Research Elite Training Program at Tencent AI Lab. During this program, I will be conducting research on trustworthy generative AI. 
 
-My research areas currently include **Pretrained Models Tuning**, **Attribution Analysis**, **Text-based Personality Detection**, etc.
+My research areas currently include **Alignment of LLMs**, **Attribution Analysis**, **Text-based Personality Detection**, etc.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
