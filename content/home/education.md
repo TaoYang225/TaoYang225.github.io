@@ -44,7 +44,7 @@ experience:
     company: Civil Aviation University of China
     company_url: 'https://www.cauc.edu.cn/zhv4/'
     company_logo: cauc
-    location: Tianjing, China
+    location: Tianjin, China
     date_start: '2012-09-01'
     date_end: '2016-07-01'
     #description: The education mode CDIO (Concept, Design, Implementation, and Operation) has a great influence on me, and makes me often think and solve problems with this idea.
