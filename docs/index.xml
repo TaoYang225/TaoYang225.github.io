@@ -33,6 +33,48 @@
     </item>
     
     <item>
+      <title>Dual-Feedback Knowledge Retrieval for Task-Oriented Dialogue Systems</title>
+      <link>https://taoyang225.github.io/publication/dual-feedback-knowledge-retrieval-for-task-oriented-dialogue-systems/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://taoyang225.github.io/publication/dual-feedback-knowledge-retrieval-for-task-oriented-dialogue-systems/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt; </description>
+    </item>
+    
+    <item>
+      <title>Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration</title>
+      <link>https://taoyang225.github.io/publication/explore-instruct/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://taoyang225.github.io/publication/explore-instruct/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt; </description>
+    </item>
+    
+    <item>
       <title>Clustering-Aware Negative Sampling for Unsupervised Sentence Representation</title>
       <link>https://taoyang225.github.io/publication/clusterns/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
@@ -411,6 +453,27 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://taoyang225.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>PsyCoT: Psychological Questionnaire as Powerful Chain-of-Thought for Personality Detection</title>
+      <link>https://taoyang225.github.io/publication/psycot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taoyang225.github.io/publication/psycot/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt; </description>
     </item>
     
   </channel>

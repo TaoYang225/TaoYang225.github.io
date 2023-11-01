@@ -6,7 +6,7 @@ title: Tao Yang
 superuser: true
 
 # Role/position/tagline
-role: Third-year PhD Student
+role: Fourth-year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,7 +74,7 @@ email: 'yangt225[@]mail2.sysu.edu.cn'
 highlight_name: true
 ---
 
-I am a Ph.D. student in Computer Technology at School of Computer Science and Engineering, Sun Yat-sen University. I received my M.E. degree in Control Engineering and B.E. degree in Electronic Information Engineering from Civil Aviation University of China. My research primarily focuses on Natural Language Processing. I am delighted to share that I have been accepted into the 2023 Tencent Rhino-Bird Research Elite Training Program at Tencent AI Lab. During this program, I will be conducting research on trustworthy generative AI. 
+I am a Ph.D. student in Computer Technology at School of Computer Science and Engineering, Sun Yat-sen University. I received my M.E. degree in Control Engineering and B.E. degree in Electronic Information Engineering from Civil Aviation University of China. My research primarily focuses on Natural Language Processing. I am delighted to share that I have been accepted into the 2023 Tencent Rhino-Bird Research Elite Program at Tencent AI Lab. During this program, I will be conducting research on trustworthy generative AI. 
 
 My research areas currently include **Alignment of LLMs**, **Attribution Analysis**, **Text-based Personality Detection**, etc.
 

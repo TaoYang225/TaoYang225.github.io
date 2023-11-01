@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Education
 subtitle:
@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Ph.D. in Computer Technology
     company: Sun Yat-sen University 
-    #company_url: ''
-    #company_logo: sysu
+    company_url: 'https://www.sysu.edu.cn/'
+    company_logo: sysu
     location: GuangZhou, China
     date_start: '2020-09-01'
     date_end: ''
@@ -33,8 +33,8 @@ experience:
 
   - title: M.E. in Control Engineering
     company: Civil Aviation University of China
-    #company_url: ''
-    #company_logo: org-x
+    company_url: 'https://www.cauc.edu.cn/zhv4/'
+    company_logo: cauc
     location: Tianjin, China
     date_start: '2016-09-01'
     date_end: '2019-07-01'
@@ -42,13 +42,13 @@ experience:
 
   - title: B.E. in Electronic Information Engineering (CDIO)
     company: Civil Aviation University of China
-    #company_url: ''
-    #company_logo: org-x
+    company_url: 'https://www.cauc.edu.cn/zhv4/'
+    company_logo: cauc
     location: Tianjing, China
     date_start: '2012-09-01'
     date_end: '2016-07-01'
     #description: The education mode CDIO (Concept, Design, Implementation, and Operation) has a great influence on me, and makes me often think and solve problems with this idea.
 
 design:
-  columns: '3'
+  columns: '1'
 ---
