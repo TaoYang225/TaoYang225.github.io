@@ -6,7 +6,7 @@ title: Tao Yang
 superuser: true
 
 # Role/position/tagline
-role: Fourth-year PhD Student
+role: Final-year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
